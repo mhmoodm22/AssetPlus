@@ -1,0 +1,8 @@
+---run cmd as administrator mode and then execute the following---
+
+mysqldump --column-statistics=0 -u root -p2011331055 realestate > "C:\Users\HUAWEI\Downloads\propertyManagement section 3\propertyManagement section 3\propertyManagement\web\WEB-INF\db_backup_realestate_DateTime.sql"
+
+--kill task--
+netstat -a -o -n
+netstat -ano | find "<port number>"
+taskkill /F /PID <PID>
