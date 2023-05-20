@@ -18,7 +18,7 @@
 		  <div class="container-fluid">
 		    <div class="navbar-header">
 
-		      <a class="navbar-brand" href="home.jsp"><i class="glyphicon glyphicon-home"></i>Asset Plus</a>
+		      <a class="navbar-brand" href="home.jsp"><i class="glyphicon glyphicon-home"></i> Asset Plus</a>
 		    </div>
 		    <ul class="nav navbar-nav">
 		      <li class="active"><a href="home.jsp">Home</a></li>

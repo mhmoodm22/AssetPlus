@@ -50,10 +50,10 @@
         <ul class="header-top-list">
 
           <li>
-            <a href="mailto:info@homeverse.com" class="header-top-link">
+            <a href="mailto:mahmood14a@gmail.com" class="header-top-link">
               <ion-icon name="mail-outline"></ion-icon>
 
-              <span>info@property.com</span>
+              <span>mahmood14a@gmail.com</span>
             </a>
           </li>
 
@@ -61,7 +61,7 @@
             <a href="#" class="header-top-link">
               <ion-icon name="location-outline"></ion-icon>
 
-              <address>15/A, Nest Tower, NYC</address>
+              <address>London, UK</address>
             </a>
           </li>
 
@@ -104,9 +104,7 @@
     <div class="header-bottom">
       <div class="container">
 
-        <a href="#" class="logo">
-          <img src="./assets/images/logo.png" alt="Homeverse logo">
-        </a>
+          <a class="navbar-brand" href="home.jsp"><i class="glyphicon glyphicon-home"></i></a><h2>Asset Plus</h2>
 
         <nav class="navbar" data-navbar>
 
@@ -198,7 +196,7 @@
             <h2 class="h1 hero-title">Find Your Dream House By Us</h2>
 
             <p class="hero-text">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.
+              Property Buy, Sell and Rent Easily
             </p>
 
             
@@ -279,8 +277,7 @@
             </ul>
 
             <p class="callout">
-              "Enimad minim veniam quis nostrud exercitation
-              llamco laboris. Lorem ipsum dolor sit amet"
+              Property Buy, Sell and Rent Easily
             </p>
 
             <a href="#service" class="btn">Our Services</a>
@@ -760,11 +757,11 @@
         <div class="footer-brand">
 
           <a href="#" class="logo">
-            <img src="./assets/images/logo-light.png" alt="Homeverse logo">
+            <i class="glyphicon glyphicon-home"></i>  Asset Plus
           </a>
 
           <p class="section-text">
-            Lorem Ipsum is simply dummy text of the and typesetting industry. Lorem Ipsum is dummy text of the printing.
+            Property Buy, Sell and Rent Easily
           </p>
 
           <ul class="contact-list">
@@ -773,7 +770,7 @@
               <a href="#" class="contact-link">
                 <ion-icon name="location-outline"></ion-icon>
 
-                <address>Brooklyn, New York, United States</address>
+                <address>London, United Kingdom</address>
               </a>
             </li>
 
@@ -781,15 +778,15 @@
               <a href="tel:+0123456789" class="contact-link">
                 <ion-icon name="call-outline"></ion-icon>
 
-                <span>+0123-456789</span>
+                <span>020 7946 0000</span>
               </a>
             </li>
 
             <li>
-              <a href="mailto:contact@home.com" class="contact-link">
+              <a href="mailto:mahmood14a@gmail.com" class="contact-link">
                 <ion-icon name="mail-outline"></ion-icon>
 
-                <span>contact@home.com</span>
+                <span>mahmood14a@gmail.com</span>
               </a>
             </li>
 
@@ -932,7 +929,7 @@
       <div class="container">
 
         <p class="copyright">
-          &copy; 2022 <a href="#">codewithsadee</a>. All Rights Reserved
+          &copy; 2022 <a href="#"></a>. All Rights Reserved
         </p>
 
       </div>

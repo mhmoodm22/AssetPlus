@@ -91,8 +91,8 @@ String query2 = "select * from house where seller_id = " + sellerId;
 
 		      <li ><a href="index.jsp">Home</a></li>
 		      <li><a href="BuyerLR.jsp">Buyer</a></li>
-		      <li  class="active" ><a href="AgentLogin.jsp">Agent</a></li>
-		      <li><a href="SellerLR.jsp">Seller</a></li>
+		      <li><a href="AgentLogin.jsp">Agent</a></li>
+		      <li  class="active"><a href="SellerLR.jsp">Seller</a></li>
 		      <!-- <li><a href="EmployeeLogin.jsp">Employee</a></li> -->
 		      <li><a href="Logout.jsp">Logout</a></li>
 		      
