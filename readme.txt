@@ -12,4 +12,15 @@ This is the steps to run the project:
 10) Run the project.
 11) Your project will be run in the browser. http://localhost:8088/propertyManagement/home.jsp is the homepage. (port can be different depending on the mysql port setup)
 
+Folders and Files:
+1) Images and WEB-INF folder contains all the images used. Mysql connector jar file is also there within lib folder.
+2) assets folder contains js, css and additional images.
+3) All the JSP pages are in the main web folder. also there are some icons and css within this folder.
+4) Buyer, Seller and Agent basic pages are names such as the file name itself describe the purpose.
+5) home.jsp is the main public home page. index.jsp is the main dasboard for users.
+6) Login/Register pages have suffix as "Login"/"Register"
+7) Validation pages have suffix "Validate"
+8) All other pages serves the additional purpose which is easily recognizable. 
+
 Thanks.
+
