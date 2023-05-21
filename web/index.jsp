@@ -48,8 +48,7 @@
 <div class="w3-content w3-display-container">
   <img class="mySlides" src="https://www.rsiconcepts.com/blog/wp-content/uploads/2020/03/Property-Management-System-Dubai-UAE.jpeg" style="width:100%">
   <img class="mySlides" src="Images/banner2.jpg" style="width:100%">
-  <img class="mySlides" src="https://gitsfiji.com/wp-content/uploads/2018/06/Asset Plus-Management-System-REMS.jpg" style="width:100%">
-
+  
 
   <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
   <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
